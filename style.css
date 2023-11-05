@@ -77,4 +77,10 @@ section p {
     font-size: 1.1rem;
 }
 
+img.card-img-top {
+    width: 100%;
+    height: 410px;
+    object-fit: cover;
+}
+
 /* Add additional CSS rules for specific elements or custom styling as needed */
